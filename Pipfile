@@ -5,6 +5,14 @@ name = "pypi"
 
 [packages]
 ipykernel = "*"
+dotenv = "*"
+langchain-openai = "*"
+langchain-text-splitters = "*"
+langchain-community = "*"
+langchain-core = "*"
+langchain-classic = "*"
+langchain-chroma = "*"
+pypdf = "*"
 
 [dev-packages]
 
