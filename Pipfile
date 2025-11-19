@@ -13,6 +13,7 @@ langchain-core = "*"
 langchain-classic = "*"
 langchain-chroma = "*"
 pypdf = "*"
+langchain-cohere = "*"
 
 [dev-packages]
 
